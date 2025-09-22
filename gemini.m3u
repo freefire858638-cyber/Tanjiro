@@ -1,0 +1,8 @@
+#EXTINF:-1 tvg-id="geminitvhd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/geminitvhd.png" group-title="Entertainment",Gemini TV HD
+https://live.dinesh29.com.np/stream/jiotvplus/geminitvhd/master.m3u8
+#EXTINF:-1 tvg-id="geminimusichd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/geminimusichd.png" group-title="Music",Gemini Music HD
+https://live.dinesh29.com.np/stream/jiotvplus/geminimusichd/master.m3u8
+#EXTINF:-1 tvg-id="geminimovieshd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/geminimovieshd.png" group-title="Movies",Gemini Movies HD
+https://live.dinesh29.com.np/stream/jiotvplus/geminimovieshd/master.m3u8
+#EXTINF:-1 tvg-id="geminilife" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/geminilife.png" group-title="Movies",Gemini Life
+https://live.dinesh29.com.np/stream/jiotvplus/geminilife/master.m3u8
