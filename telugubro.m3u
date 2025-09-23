@@ -175,7 +175,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/pogotelugu/master.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/cartoonnetworktelugu/master.m3u8
 
 #EXTINF:-1 tvg-ID="sonyyaytelugu" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/sonyyaytelugu.png" group-title="Kids",Sony Yay Telugu
-http://147.93.153.98/GOLDD/play.php?id=277166|user-agent=RANAPK
+http://147.93.153.98/GOLDD../play.php?id=277166|user-agent=RANAPK
 
 #EXTINF:-1 tvg-id="etvbhalabharat" group-title="Kids" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/ETVBHALABHARAT.jpg", Etv Bhalabharat
 http://103.182.170.32:8888/play/a022
